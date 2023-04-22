@@ -1,10 +1,9 @@
 ### Hi there 👋  I'm Priyanshu! 
-- 💻 a DevOps engineer and a full-stack developer 
-- 📍 Bengaluru, India
+- 💻 a DevOps engineer and a full-stack developer, 📍 Bengaluru, India
 - 💼 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
-- 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="Azure Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
-- <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> Certified with: <img src="pictures/cka.png" alt="CKA Logo" width="18"> CKA, <img src="pictures/awssaa.png" alt="AWS SAA Logo" width="18"> AWS Solutions Architect-Associate, <img src="pictures/awscp.png" alt="AWS CP Logo" width="18"> AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals 
+- 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="ArgocCD Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
+- <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> Certified with: <img src="pictures/cka.png" alt="CKA Logo" width="18"> CKA, <img src="pictures/awssaa.png" alt="AWS SAA Logo" width="18"> AWS Solutions Architect-Associate, <img src="pictures/awscp.png" alt="AWS CP Logo" width="18"> AWS Certified Cloud Practitioner, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals 
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
 
