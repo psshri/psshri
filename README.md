@@ -1,7 +1,8 @@
 ### Hi there 👋  I'm Priyanshu! 
 
-- 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
-- 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
+💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
+
+👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
 - 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="ArgocCD Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> Certified with: 
     - <img src="pictures/cka.png" alt="CKA Logo" width="18"> Certified Kubernetes Administrator [<img src="pictures/hyperlink.png" alt="See in Credly" width="16">](https://www.credly.com/badges/dd021ae5-d0ad-4fd2-a6db-4145d2f06239/public_url)
