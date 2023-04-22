@@ -24,3 +24,8 @@
 <span style="margin-right: 20px;"><a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="35"/></a></span>
 <span style="margin-right: 20px;"><a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="40"/></a></span>
 
+### Contact
+
+<a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="33"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="35"/></a>
+
+<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="40"/></a>
