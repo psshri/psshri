@@ -10,6 +10,9 @@
     - <img src="pictures/azure.png" alt="Azure Logo" width="12"> [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile)
     - <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals [<img src="pictures/hyperlink.png" alt="See in Credly" width="16">](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile)
     - <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals <a href="https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile" target="_blank"><img src="pictures/hyperlink.png" alt="See in Credly" width="16"></a>
+
+    <a href="https://www.example.com" target="_blank">Link Text</a>
+
  
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
