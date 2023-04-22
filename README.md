@@ -1,9 +1,5 @@
 ### Hi there 👋  I'm Priyanshu! 
 
-- f
-- f
-
-
 - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
 - 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="ArgocCD Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
