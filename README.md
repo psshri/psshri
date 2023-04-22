@@ -40,7 +40,7 @@
     - <img src="pictures/azurefunda.png" alt="Azure Fundamentals Logo" width="16"> Microsoft Certified: Azure Fundamentals [<img src="pictures/hyperlink.png" alt="See in Credly" width="16">](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile)
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
-<br>
+<!-- <br> -->
 
 ### Contact
 <a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="25"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="29"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="34"/></a>
