@@ -1,9 +1,3 @@
-<style>
-ul {
-    margin-bottom: 10px;
-}
-</style>
-
 ### Hi there 👋  I'm Priyanshu! 
 
 - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
