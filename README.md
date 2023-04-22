@@ -8,7 +8,9 @@
     - <img src="pictures/awssaa.png" alt="AWS SAA Logo" width="18"> [AWS Solutions Architect-Associate](https://www.credly.com/badges/6c70e580-dd75-4448-a4ef-34402003a507/public_url "See in Credly") 
     - <img src="pictures/awscp.png" alt="AWS CP Logo" width="18"> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a8ec4b4c-7ac9-4987-9695-66cde38cfaa0/public_url "See in Credly")
     - <img src="pictures/azure.png" alt="Azure Logo" width="12"> [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile)
-    - <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals [<img src="pictures/hyperlink.png" alt="See in Credly" width="16">](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile) 
+    - <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals [<img src="pictures/hyperlink.png" alt="See in Credly" width="16">](https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile)
+    - <img src="pictures/azure.png" alt="Azure Logo" width="12"> Microsoft Certified: Azure Fundamentals <a href="https://www.credly.com/badges/db38fd28-3ad1-4f8c-bb83-12e0ec707d59?source=linked_in_profile" target="_blank"><img src="pictures/hyperlink.png" alt="See in Credly" width="16"></a>
+ 
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
 
