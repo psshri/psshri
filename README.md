@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Priyanshu! 
+<!-- ### Hi there 👋  I'm Priyanshu! 
 
 - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
@@ -26,7 +26,7 @@
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="25"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="29"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="34"/></a>
+<a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="25"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="29"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="34"/></a> -->
 
 ### Hi there 👋  I'm Priyanshu! 
 
