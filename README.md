@@ -5,6 +5,8 @@
 ### - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
 
 <font size="18">This text will be larger</font>
+<font size="20">This text will be larger</font>
+<font size="22">This text will be larger</font>
 
 
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
