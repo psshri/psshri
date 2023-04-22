@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+<!-- ## Skills
 - [Skill #1]
 - [Skill #2]
 - [Skill #3]
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 - [Email](mailto:youremail@example.com)
 - [Website](https://www.yourwebsite.com/)
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project!
+Feel free to reach out to me if you have any questions or would like to collaborate on a project! -->
