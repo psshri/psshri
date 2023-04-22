@@ -6,7 +6,17 @@
 
 <font size="18">This text will be larger</font>
 
-<p style="font-size: 300px;">This is some text</p>
+ <font size="1"> This is my text number1</font> 
+
+ <font size="2"> This is my text number 2 </font>
+ 
+ <font size="3"> This is my text number 3</font> 
+ 
+ <font size="4"> This is my text number 4</font> 
+ 
+ <font size="5"> This is my text number 5</font> 
+ 
+ <font size="6"> This is my text number 6</font>
 
 
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
