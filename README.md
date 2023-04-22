@@ -16,35 +16,11 @@
 
 
 ### Contact
-<a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="33"/></a> <a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="35"/></a>
-<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="40"/></a>
+<!-- <a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="33"/></a> <a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="35"/></a>
+<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="40"/></a> -->
 
+### Contact
+<span style="margin-right: 20px;"><a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="33"/></a></span>
+<span style="margin-right: 20px;"><a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="35"/></a></span>
+<span style="margin-right: 20px;"><a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="40"/></a></span>
 
-<!--
-**psshri/psshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## Skills
-- [Skill #1]
-- [Skill #2]
-- [Skill #3]
-- [Skill #4]
-- [Skill #5]
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Email](mailto:youremail@example.com)
-- [Website](https://www.yourwebsite.com/)
-
-Feel free to reach out to me if you have any questions or would like to collaborate on a project! -->
