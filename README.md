@@ -15,7 +15,7 @@
 
 ### Contact
 <a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="20" style="margin-right: 10px;"/></a>
-<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="20" style="margin-right: 10px;"/></a>
+<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="20" style="margin-right: 100px;"/></a>
 <a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="20"/></a>
 
 
