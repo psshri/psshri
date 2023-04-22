@@ -1,24 +1,6 @@
 ### Hi there 👋  I'm Priyanshu! 
-###### - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
-##### - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
-#### - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
-### - 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
 
-<font size="18">This text will be larger</font>
-
- <font size="1"> This is my text number1</font> 
-
- <font size="2"> This is my text number 2 </font>
- 
- <font size="3"> This is my text number 3</font> 
- 
- <font size="4"> This is my text number 4</font> 
- 
- <font size="5"> This is my text number 5</font> 
- 
- <font size="6"> This is my text number 6</font>
-
-
+- 💻 a DevOps engineer and a full-stack developer, 📍 based in Bengaluru (India), 💼 with 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
 - 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="ArgocCD Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
 - <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> Certified with: 
