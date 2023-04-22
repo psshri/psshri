@@ -6,7 +6,7 @@
 
 <font size="18">This text will be larger</font>
 
-<p style="font-size: 24px;">This is some text</p>
+<p style="font-size: 300px;">This is some text</p>
 
 
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
