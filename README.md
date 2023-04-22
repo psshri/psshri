@@ -2,13 +2,13 @@
 - 💻 a DevOps engineer and a full-stack developer 
 - 📍 Bengaluru, India
 - 💼 3 years of work experience
-- 👨‍💻 currently working with <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes Logo" width="17"/> Kubernetes, Terraform, Azure & MERN Stack.
+- 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Terraform Logo" width="10"> Kubernetes, Terraform, Azure & MERN Stack.
 - 📚 I’m currently learning Istio, ArgoCD & ELK Stack
+- <img src="https://img.icons8.com/color/15/000000/certificate.png"/> Certified with:  
 - <img src="https://img.icons8.com/color/15/000000/certificate.png"/> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
 
-<img src="https://raw.githubusercontent.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp-terraform-fullcolor.svg" alt="Terraform Logo" width="100" height="100">
-
+<img src="pictures/kubernetes.png" alt="Terraform Logo" width="100" height="100">
 
 
 
