@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there 👋  I'm Priyanshu! 
+- 💻 a DevOps engineer and a full-stack developer 
+- 📍 Bengaluru, India
+- 💼 3 years of work experience
+- 👨‍💻 currently working with <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes Logo" width="17"/> Kubernetes, Terraform, Azure & MERN Stack.
+- 📚 I’m currently learning Istio, ArgoCD & ELK Stack
+- <img src="https://img.icons8.com/color/15/000000/certificate.png"/> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
+
+
+<img src="https://raw.githubusercontent.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp-terraform-fullcolor.svg" alt="Terraform Logo" width="100" height="100">
+
+
+
+
+### Contact
+<a href="https://www.linkedin.com/in/psshri/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
+<a href="mailto:psshri@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png" width="28"/></a>
+<a href="https://wa.me/919758439312"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="33"/></a>
+
+<img src="https://img.icons8.com/color/48/000000/certificate.png"/>
+
+
 
 <!--
 **psshri/psshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +35,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+- [Skill #1]
+- [Skill #2]
+- [Skill #3]
+- [Skill #4]
+- [Skill #5]
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Email](mailto:youremail@example.com)
+- [Website](https://www.yourwebsite.com/)
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
