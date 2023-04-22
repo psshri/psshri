@@ -3,22 +3,15 @@
 - 📍 Bengaluru, India
 - 💼 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
-- 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="Azure Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="35"> ELK Stack
+- 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="Azure Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
 - <img src="https://img.icons8.com/color/15/000000/certificate.png"/> Certified with:  
 - <img src="https://img.icons8.com/color/15/000000/certificate.png"/> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
-
-
-<img src="pictures/kubernetes.png" alt="Terraform Logo" width="100" height="100">
-
 
 
 ### Contact
 <a href="https://www.linkedin.com/in/psshri/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
 <a href="mailto:psshri@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png" width="28"/></a>
 <a href="https://wa.me/919758439312"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="33"/></a>
-
-<img src="https://img.icons8.com/color/48/000000/certificate.png"/>
-
 
 
 <!--
