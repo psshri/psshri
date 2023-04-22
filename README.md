@@ -4,8 +4,8 @@
 - 💼 3 years of work experience
 - 👨‍💻 currently working with <img src="pictures/kubernetes.png" alt="Kubernetes Logo" width="15"> Kubernetes, <img src="pictures/terraform.png" alt="Terraform Logo" width="12"> Terraform, <img src="pictures/azure.png" alt="Azure Logo" width="12"> Azure & <img src="pictures/mern-stack.png" alt="MERN Logo" width="40"> MERN Stack.
 - 📚 I’m currently learning <img src="pictures/istio.png" alt="Istio Logo" width="12"> Istio, <img src="pictures/argocd.png" alt="Azure Logo" width="12"> ArgoCD & <img src="pictures/elk.png" alt="ELK Logo" width="40"> ELK Stack
-- <img src="https://img.icons8.com/color/15/000000/certificate.png"/> Certified with:  
-- <img src="https://img.icons8.com/color/15/000000/certificate.png"/> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
+- <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> Certified with: CKA, AWS Solutions Architect-Associate, AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals 
+- <img src="pictures/certificate.png" alt="Certificate Logo" width="12"> My upcoming certification exams in next two months: CKS, CKAD, AZ-700, AZ-104 & AZ-400
 
 
 ### Contact
