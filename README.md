@@ -40,5 +40,14 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/psshri) -->
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psshri)](https://git.io/streak-stats) -->
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psshri&theme=compact)](https://git.io/streak-stats) -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psshri&theme=compact" alt="GitHub Streak" width="400" height="100" />
+
+
+
+
 ### Contact
 <a href="https://www.linkedin.com/in/psshri/"><img src="pictures/linkedin.png" alt="LinkedIn Logo" width="25"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:psshri@outlook.com"><img src="pictures/ms_outlook.png" alt="MS Outlook Logo" width="29"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/919758439312"><img src="pictures/whatsapp.png" alt="Whatsapp Logo" width="34"/></a>
