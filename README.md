@@ -40,11 +40,11 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/psshri) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psshri)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psshri)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psshri&theme=compact)](https://git.io/streak-stats) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psshri&theme=compact" alt="GitHub Streak" width="400" height="100" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=psshri&theme=compact" alt="GitHub Streak" width="400" height="100" /> -->
 
 
 
